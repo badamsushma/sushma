@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<ItemGroup>
+<ProjectReference Include = "C:\Users\sushma.badam\Desktop\ass\StaticVariable2\StaticVariable2.csproj"/>
+</ItemGroup>
+<PropertyGroup>
+
+<Configuration>Debug</Configuration>
+
+<Platform>AnyCPU</Platform>
+
+<OutputType>exe</OutputType>
+
+<OutputPath>bin\Debug\</OutputPath>
+
+<TargetFramework>Net451</TargetFramework>
+
+</PropertyGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\sushma.badam\Desktop\ass\StaticVariable1\bin\Debug\Net451\StaticVariable1.runtimeconfig.json
+C:\Users\sushma.badam\Desktop\ass\StaticVariable1\bin\Debug\Net451\StaticVariable1.runtimeconfig.dev.json
+C:\Users\sushma.badam\Desktop\ass\StaticVariable1\bin\Debug\Net451\StaticVariable1.exe
+C:\Users\sushma.badam\Desktop\ass\StaticVariable1\bin\Debug\Net451\StaticVariable1.pdb
+C:\Users\sushma.badam\Desktop\ass\StaticVariable1\obj\Debug\Net451\StaticVariable1.AssemblyInfo.cs
+C:\Users\sushma.badam\Desktop\ass\StaticVariable1\obj\Debug\Net451\StaticVariable1.exe
+C:\Users\sushma.badam\Desktop\ass\StaticVariable1\obj\Debug\Net451\StaticVariable1.pdb
+C:\Users\sushma.badam\Desktop\ass\StaticVariable1\bin\Debug\Net451\StaticVariable2.exe
+C:\Users\sushma.badam\Desktop\ass\StaticVariable1\bin\Debug\Net451\StaticVariable2.pdb

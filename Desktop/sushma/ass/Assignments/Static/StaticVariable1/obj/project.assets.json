@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {
+      "StaticVariable2/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.1",
+        "compile": {
+          "bin/placeholder/net451/StaticVariable2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/net451/StaticVariable2.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.1/win7-x86": {
+      "StaticVariable2/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.1",
+        "compile": {
+          "bin/placeholder/net451/StaticVariable2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/net451/StaticVariable2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticVariable2/1.0.0": {
+      "type": "project",
+      "path": "../StaticVariable2/StaticVariable2.csproj",
+      "msbuildProject": "../StaticVariable2/StaticVariable2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": [
+      "StaticVariable2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sushma.badam\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable1\\StaticVariable1.csproj",
+      "projectName": "StaticVariable1",
+      "projectPath": "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable1\\StaticVariable1.csproj",
+      "outputPath": "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable1\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "Net451"
+      ],
+      "files": {
+        "lib/net451/StaticVariable1.dll": "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable1\\bin\\placeholder\\net451\\StaticVariable1.dll"
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {
+            "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable2\\StaticVariable2.csproj": {
+              "projectPath": "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable2\\StaticVariable2.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net451": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

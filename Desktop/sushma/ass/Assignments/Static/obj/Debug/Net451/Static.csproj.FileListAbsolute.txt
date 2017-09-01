@@ -1,0 +1,7 @@
+C:\Users\sushma.badam\Desktop\ass\Static\bin\Debug\Net451\Static.runtimeconfig.json
+C:\Users\sushma.badam\Desktop\ass\Static\bin\Debug\Net451\Static.runtimeconfig.dev.json
+C:\Users\sushma.badam\Desktop\ass\Static\bin\Debug\Net451\Static.exe
+C:\Users\sushma.badam\Desktop\ass\Static\bin\Debug\Net451\Static.pdb
+C:\Users\sushma.badam\Desktop\ass\Static\obj\Debug\Net451\Static.AssemblyInfo.cs
+C:\Users\sushma.badam\Desktop\ass\Static\obj\Debug\Net451\Static.exe
+C:\Users\sushma.badam\Desktop\ass\Static\obj\Debug\Net451\Static.pdb

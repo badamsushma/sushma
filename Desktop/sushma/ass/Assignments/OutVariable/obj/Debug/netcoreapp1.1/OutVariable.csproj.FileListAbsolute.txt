@@ -1,0 +1,8 @@
+C:\Users\sushma.badam\Desktop\ass\OutVariable\bin\Debug\netcoreapp1.1\OutVariable.deps.json
+C:\Users\sushma.badam\Desktop\ass\OutVariable\bin\Debug\netcoreapp1.1\OutVariable.runtimeconfig.json
+C:\Users\sushma.badam\Desktop\ass\OutVariable\bin\Debug\netcoreapp1.1\OutVariable.runtimeconfig.dev.json
+C:\Users\sushma.badam\Desktop\ass\OutVariable\bin\Debug\netcoreapp1.1\OutVariable.dll
+C:\Users\sushma.badam\Desktop\ass\OutVariable\bin\Debug\netcoreapp1.1\OutVariable.pdb
+C:\Users\sushma.badam\Desktop\ass\OutVariable\obj\Debug\netcoreapp1.1\OutVariable.AssemblyInfo.cs
+C:\Users\sushma.badam\Desktop\ass\OutVariable\obj\Debug\netcoreapp1.1\OutVariable.dll
+C:\Users\sushma.badam\Desktop\ass\OutVariable\obj\Debug\netcoreapp1.1\OutVariable.pdb

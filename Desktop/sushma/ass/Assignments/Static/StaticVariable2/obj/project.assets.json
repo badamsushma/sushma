@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {},
+    ".NETFramework,Version=v4.5.1/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\sushma.badam\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable2\\StaticVariable2.csproj",
+      "projectName": "StaticVariable2",
+      "projectPath": "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable2\\StaticVariable2.csproj",
+      "outputPath": "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable2\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "Net451"
+      ],
+      "files": {
+        "lib/net451/StaticVariable2.dll": "C:\\Users\\sushma.badam\\Desktop\\ass\\StaticVariable2\\bin\\placeholder\\net451\\StaticVariable2.dll"
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net451": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
